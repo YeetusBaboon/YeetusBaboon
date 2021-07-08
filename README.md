@@ -1,1 +1,1 @@
-[![Spotify](https://novatorema.vercel.app/api/spotify)]
+![Spotify](https://novatorema.vercel.app/api/spotify)
