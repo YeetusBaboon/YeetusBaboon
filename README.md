@@ -1,14 +1,16 @@
- Hi! I'm Yeetus Baboon 
+ 👋 Hi! I'm Yeetus Baboon 
  ============= 
- ## And here is my trash profile ##
------
+ #### And here is my trash profile.. ####
 
 
-### 👋 I'm a student looking to learn some code ;) ###
+
+###  I'm a student looking to learn some code ;) ###
 
 - [x] Professional Discord No-life
 
 - [x] Loves tech
+
+- [x] Enjoys reading
 
 - [ ] Intelligent in any way  
 
