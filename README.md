@@ -10,5 +10,5 @@ Currently vibing to:
 
 
 
-[![Yeetus Baboon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeetusBaboon&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=YeetusBaboon&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
