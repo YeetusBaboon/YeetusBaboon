@@ -1,7 +1,6 @@
- 👋 Hi! I'm Yeetus Baboon 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Yeetus+Baboon!)](https://git.io/typing-svg)
  ============= 
- #### And here is my trash profile.. ####
-
+ 
 
 
 ###  I'm a student looking to learn some code ;) ###
