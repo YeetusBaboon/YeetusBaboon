@@ -1,6 +1,6 @@
+#### Hi! I'm Yeetus Baboon ####
 -----
-![alt text](https://images.unsplash.com/photo-1543332164-6e82f355badc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVsbG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
------
+
 
 ### 👋 I'm a student looking to learn some code ;) ###
 
