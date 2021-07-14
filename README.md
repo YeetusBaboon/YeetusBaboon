@@ -5,13 +5,13 @@
 
 ###  I'm a student looking to learn some code ;) ###
 
-- [x] Professional Discord No-life
+- [x] `Professional Discord No-life`
 
-- [x] Loves tech
+- [x] `Tech lover`
 
-- [x] Enjoys reading
+- [x] `Relishes reading`
 
-- [ ] Intelligent in any way  
+- [ ] `Intelligence`
 
 -----
 
@@ -26,7 +26,7 @@ Since I don't use GitHub all that much, these are all my stats. Not much, but it
 -----
 
 
-Currently vibing to:
+I'm currently vibing to:
 
 ![Spotify](https://novatorema.vercel.app/api/spotify)
 
