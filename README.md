@@ -5,7 +5,7 @@
 
 ###  I'm a student looking to learn some code ;) ###
 
-- [x] `Professional Discord No-life`
+- [x] `Discord No-life`
 
 - [x] `Tech lover`
 
