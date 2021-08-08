@@ -25,11 +25,10 @@ Since I don't use GitHub all that much, these are all my stats. Not much, but it
 
 -----
 
+### Where can I find you? ###
 
-I'm currently vibing to:
-
-![Spotify](https://novatorema.vercel.app/api/spotify)
-
+You can find me on Discord-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/751956907714936882)](https://discord.com/users/751956907714936882)
 
 
 
